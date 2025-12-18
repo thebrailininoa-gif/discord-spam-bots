@@ -1,0 +1,9 @@
+body{font-family:Inter,Segoe UI,Helvetica,Arial,sans-serif;color:#222;margin:0;padding:0;background:#f7f9fb}
+header{background:#2b2f3a;color:#fff;padding:28px 20px}
+header h1{margin:0;font-size:28px}
+.tagline{opacity:.9;margin-top:6px}
+main{max-width:920px;margin:28px auto;padding:0 18px}
+h2{color:#111}
+ul{line-height:1.6}
+footer{border-top:1px solid #e6e9ee;padding:18px;text-align:center;color:#666;font-size:14px}
+a{color:#0366d6}
